@@ -1,5 +1,5 @@
 /* Copyright (C) 2021 vishnuserkl29
-----WhatsMeenu/@subashini
+----WhatsMeenu
 */
 
 const { Sequelize } = require('sequelize');
