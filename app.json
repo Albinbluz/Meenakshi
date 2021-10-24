@@ -8,8 +8,8 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+        "MEENU_QRCODE": {
+            "description": "QR scan aakiyapol kittiya Meenu;;; code ivade enter cheyyu.",
             "required": true
         },
         "SUDO": {
