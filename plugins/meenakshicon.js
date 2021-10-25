@@ -9,7 +9,7 @@ const Axios = require('axios')
 const conf = require('../config');
 let wk = conf.WORKTYPE == 'public' ? false : true
 
-Meenu.addCommand({pattern: 'ytv ?(.*)', fromMe: wk, desc: 'video downloading links from youtube'}, async (message, match) => {
+Meenu.addCommand({pattern: 'yttv ?(.*)', fromMe: wk, desc: 'video downloading links from youtube'}, async (message, match) => {
 	
         const {data} = await axios(`https://api.zeks.me/api/ytplaymp4?apikey=ApiKannappi&q=${match[1]}`)
 	
