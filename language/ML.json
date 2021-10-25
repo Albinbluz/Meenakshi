@@ -10,6 +10,8 @@
             "EXAMPLE": "Example",
             "NOT_FOUND": "*ingane oru command kand ethan aayilla*",
             "WARN": "Warn"
+            "REVOKED": "ഗ്രൂപ്പ് ക്ഷണം വിജയകരമായി പുനസജ്ജമാക്കി!",
+            "REVOKE_DESC": "```ഗ്രൂപ്പ് ലിങ്ക് പുതുക്കുന്നു```"
         },
         "_plugin": {
             "INSTALL_DESC": "exetrnal plugins install cheyaan.",
