@@ -111,7 +111,7 @@ Project created by <a href="https://github.com/vishnuserkl29">Vishnu Prasad</a> 
 
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnuserkl29&repo=Meenakshi&theme=nightowl)](https://github.com/vishnuserkl29/Meenakshi)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnuserkl29&repo=Meenakshi&theme=nightowl)](https://replit.com/@vishnukyk/WhatsMeenu-QR)
   </div>
     
 ## Setup
@@ -119,7 +119,7 @@ Project created by <a href="https://github.com/vishnuserkl29">Vishnu Prasad</a> 
 
   ### Simple Method
   
-[![Run on Repl.it](https://i.ibb.co/Gd4Xp9N/dbencjk3897w9qphp8ma.jpg)](https://replit.com/@vishnukyk/WhatsMeenuQR)
+[![Run on Repl.it](https://i.ibb.co/Gd4Xp9N/dbencjk3897w9qphp8ma.jpg)](https://replit.com/@vishnukyk/WhatsMeenu-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnuserkl29/Meenakshi)
      </div>
