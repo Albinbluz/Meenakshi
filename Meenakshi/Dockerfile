@@ -1,9 +1,4 @@
-FROM fusuf/whatsasena:latest
-
-RUN git clone https://github.com/vishnuserkl29/Meenakshi /root/WhatsAsenaDuplicated
-WORKDIR /root/WhatsAsenaDuplicated/
-ENV TZ=Asia/Kerala
-RUN npm install supervisor -g
-RUN yarn install --no-audit
-
-CMD ["node", "bot.js"]
+*/ Oombiko myre ഇവിടെ oru കുണ്ണയും ഇല്ല 🤣🤣🤣
+റിപ്പോർട്ട്‌ Fork ചെയ്യാൻ വന്നവൻ ഊമ്പി 🤣🤣
+ഇപ്പോൾ എങ്ങനെ ഇരിക്കുന്നു 
+/*
