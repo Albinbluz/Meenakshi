@@ -1,6 +1,6 @@
 <div align="center">
 <details>
-    <summary>💕<b>Click here to view details</b></summary>
+    <summary>💕<b>Click here to view details💕</b></summary>
 
 
 
