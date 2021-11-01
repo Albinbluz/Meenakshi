@@ -2,7 +2,8 @@
 <details>
     <summary>💕<b>Click here to view details💕</b></summary>
 
-
+###
+This WA bot works only with password! If you want please contact [Owner](wa.me/916235989299)
 
 ## Warning ⚠️
 
