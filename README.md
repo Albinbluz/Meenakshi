@@ -3,7 +3,7 @@
     <summary>💕<b>Click here to view details💕</b></summary>
 
 ###
-This WA bot works only with password! If you want please contact [Owner](https://wa.me/916235989299)
+This WA bot works only with password! If you want please contact [vishnuser](https://wa.me/916235989299)
 
 ## Warning ⚠️
 
