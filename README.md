@@ -98,7 +98,7 @@ Project created by <a href="https://github.com/vishnuserkl29">Vishnu Prasad</a> 
   
 [![Run on Repl.it](https://i.ibb.co/Gd4Xp9N/dbencjk3897w9qphp8ma.jpg)](https://replit.com/@vishnukyk/WhatsMeenu-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnuserkl29/Meenakshi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Albinbluz/Meenakshi)
      </div>
 <br>
 <br >
