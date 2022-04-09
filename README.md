@@ -113,7 +113,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/vishnuserkl29/Meenakshi
+$ git clone https://github.com/Albinbluz/Meenakshi
 $ cd Meenakshi
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -123,7 +123,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/vishnuserkl29/Meenakshi
+$ git clone https://github.com/Albinbluz/Meenakshi
 $ cd Meenakshi
 $ chmod +x *
 $ npm i
